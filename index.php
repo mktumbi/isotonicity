@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Isotonicity Calculator for Molecular Dynamics Simulations</title>
+<title>Home: Isotonicity Calculator for Molecular Dynamics Simulations</title>
 <meta name="generator" content="WYSIWYG Web Builder 9 - http://www.wysiwygwebbuilder.com">
 <style type="text/css">
 html, body

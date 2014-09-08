@@ -8,7 +8,7 @@ $volume=$_POST['volume'];
 $isotonicity=$_POST['isotonicity'];
 //echo $isotonicity;
 $NumberofIons = round (($volume * $isotonicity * 6.023)/10000);
-echo $NumberofIons; 
+//echo $NumberofIons; 
 ?>
 
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
