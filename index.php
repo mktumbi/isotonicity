@@ -163,7 +163,7 @@ h1
 <div id="wb_Form1" style="position:absolute;left:247px;top:160px;width:501px;height:273px;z-index:6;">
 <form name="Form1" method="post" action="./results.php" enctype="multipart/form-data" id="Form1">
 <div id="wb_Text2" style="position:absolute;left:25px;top:43px;width:117px;height:22px;z-index:0;text-align:left;">
-<span style="color:#000000;font-family:Arial;font-size:19px;"><strong>Volume (Å<sup>3</sup>)</strong></span></div>
+<span style="color:#000000;font-family:Arial;font-size:19px;"><strong>No. of water molecules (<sup>3</sup>)</strong></span></div>
 <div id="wb_Text3" style="position:absolute;left:23px;top:111px;width:155px;height:24px;z-index:1;text-align:left;">
 <span style="color:#000000;font-family:Arial;font-size:19px;"><strong>Isotonicity (nM)<br></strong></span></div>
 <input type="text" id="isotonicity" style="position:absolute;left:238px;top:108px;width:221px;height:24px;line-height:24px;z-index:2;" name="isotonicity" value="0.15">
